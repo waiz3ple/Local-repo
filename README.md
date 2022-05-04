@@ -23,7 +23,7 @@ Link    [title](https://www.example.com)
 Image   ![alt text](image.jpg)
 
 Extended Syntax
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+These elements extend the basic syntax by adding additional features. Not all <span style="color:red">Markdown applications</span> support these elements.
 
 Element Markdown Syntax
 
