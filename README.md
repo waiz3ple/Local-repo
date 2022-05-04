@@ -18,8 +18,10 @@ Extended Syntax
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
 Element Markdown Syntax
-Table   | Syntax | Description |
-| ----------- | ----------- |
+
+Table   
+| Syntax | Description |
+| ------ | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
