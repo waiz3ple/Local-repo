@@ -5,6 +5,7 @@ Bold    **bold text**
 Italic  *italicized text*
 Blockquote  
 > blockquote
+
 Ordered List    
 1. First item
 2. Second item
@@ -27,7 +28,7 @@ Element Markdown Syntax
 
 Table   
 | Syntax | Description |
-| ---------- | ----------- |
+| -------| ----------- |
 | Header | Title |
 | Paragraph | Text |
 
@@ -53,7 +54,6 @@ Task List
 - [ ] Contact the media
 Emoji
 (see also Copying and Pasting Emoji)    That is so funny! :joy:
-Highlight   I need to highlight these 
-==very important words==.
-Subscript   H~2~O
+Highlight   I need to highlight these <mark>very important words</mark>.
+Subscript   H<sub>2</sub>O
 Superscript X^2^
