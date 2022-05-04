@@ -21,6 +21,7 @@ Horizontal Rule
 ---
 Link    [title](https://www.example.com)
 Image   ![alt text](image.jpg)
+
 Extended Syntax
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
@@ -48,6 +49,7 @@ Definition List term
 : definition
 Strikethrough   
 ~~The world is flat.~~
+
 Task List  
 - [x] Write the press release
 - [ ] Update the website
@@ -55,5 +57,7 @@ Task List
 Emoji
 (see also Copying and Pasting Emoji)    That is so funny! :joy:
 Highlight   I need to highlight these ==very important words== . [^bignote]
-Subscript   H<sub>2</sub>O
+
+Subscript   H<sub>2</sub>
+
 Superscript X<sup>2</sup>
